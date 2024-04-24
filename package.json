@@ -1,0 +1,25 @@
+{
+  "name": "daraz-application",
+  "version": "1.0.0",
+  "description": "Daraz Application as Test Projct Using MERN stack",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadbhatti016/Daraz-Application.git"
+  },
+  "author": "ahmadbhatti016",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadbhatti016/Daraz-Application/issues"
+  },
+  "homepage": "https://github.com/ahmadbhatti016/Daraz-Application#readme"
+}
